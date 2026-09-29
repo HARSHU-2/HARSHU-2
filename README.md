@@ -75,11 +75,11 @@ I am also interested in designing intuitive and visually appealing user experien
 
 I enjoy working on projects with a combination of creativity, problem-solving, and continuous learning.
 
-💡 Think: Understand the problem and identify possible solutions.
-🎨 Design: Create simple and user-friendly interfaces.
-💻 Develop: Turn ideas into functional applications.
-🧪 Experiment: Try new approaches and learn from mistakes.
-🚀 Improve: Keep learning and make every project better.
+* 💡 Think: Understand the problem and identify possible solutions.
+* 🎨 Design: Create simple and user-friendly interfaces.
+* 💻 Develop: Turn ideas into functional applications.
+* 🧪 Experiment: Try new approaches and learn from mistakes.
+* 🚀 Improve: Keep learning and make every project better.
 
 ---
 
