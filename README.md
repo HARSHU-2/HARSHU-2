@@ -1,10 +1,17 @@
-# Hi there, I'm Harshita Potdar 👋
+<div align="center">
 
-### 🎓 MCA Student | 💻 Web Developer | 🎨 UI/UX Design Enthusiast
+👋 Hey, I'm Harshita Satyajeet Potdar
+👩🏻‍💻 MCA Student | 💻 Web Developer | 🎨 UI/UX Design Enthusiast
 
-I'm **Harshita Satyajeet Potdar**, currently pursuing a **Master of Computer Applications (MCA)** at **IMCC, Pune**.
+Building web experiences by combining technology, creativity, and user-centered design.
 
-I have completed my **Bachelor of Business Administration in Computer Application (BBA-CA)**. I am passionate about web development, technology, and creating attractive and user-friendly digital experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=MCA+Student;Web+Developer;UI%2FUX+Design+Enthusiast;Python+Learner;Creative+Problem+Solver;Building+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+</div>
 
 ---
 
