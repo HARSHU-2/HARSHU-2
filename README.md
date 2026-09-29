@@ -70,7 +70,8 @@ I am also interested in designing intuitive and visually appealing user experien
 * Software Development Concepts
 
 ---
-##⚡ My Approach to Building
+
+## ⚡ My Approach to Building
 
 I enjoy working on projects with a combination of creativity, problem-solving, and continuous learning.
 
@@ -80,6 +81,7 @@ I enjoy working on projects with a combination of creativity, problem-solving, a
 🧪 Experiment: Try new approaches and learn from mistakes.
 🚀 Improve: Keep learning and make every project better.
 
+---
 
 ## 🚀 What I Enjoy Working On
 
