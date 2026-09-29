@@ -1,7 +1,7 @@
 <div align="center">
 
-👋 Hey, I'm Harshita Satyajeet Potdar
-👩🏻‍💻 MCA Student | 💻 Web Developer | 🎨 UI/UX Design Enthusiast
+# 👋 Hey, I'm Harshita Satyajeet Potdar
+### 👩🏻‍💻 MCA Student | 💻 Web Developer | 🎨 UI/UX Design Enthusiast
 
 Building web experiences by combining technology, creativity, and user-centered design.
 
