@@ -65,12 +65,21 @@ I am also interested in designing intuitive and visually appealing user experien
 ## 📚 Currently Learning
 
 * Advanced Web Development
-* UI/UX Design Principles
 * Python Development
 * Database Management
 * Software Development Concepts
 
 ---
+##⚡ My Approach to Building
+
+I enjoy working on projects with a combination of creativity, problem-solving, and continuous learning.
+
+💡 Think: Understand the problem and identify possible solutions.
+🎨 Design: Create simple and user-friendly interfaces.
+💻 Develop: Turn ideas into functional applications.
+🧪 Experiment: Try new approaches and learn from mistakes.
+🚀 Improve: Keep learning and make every project better.
+
 
 ## 🚀 What I Enjoy Working On
 
