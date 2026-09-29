@@ -1,48 +1,40 @@
-<div align="center">
+# Hi there, I'm Harshita Potdar 👋
 
-👋 Hey, I'm Harshita Satyajeet Potdar
-👩🏻‍💻 MCA Student | 💻 Web Developer | 🎨 UI/UX Design 
+### 🎓 MCA Student | 💻 Web Developer | 🎨 UI/UX Design Enthusiast
 
-Building web experiences by combining technology, creativity, and user-centered design.
+I'm **Harshita Satyajeet Potdar**, currently pursuing a **Master of Computer Applications (MCA)** at **IMCC, Pune**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=MCA+Student;Web+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+I have completed my **Bachelor of Business Administration in Computer Application (BBA-CA)**. I am passionate about web development, technology, and creating attractive and user-friendly digital experiences.
 
-<br/>
+---
 
-<a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
-</div>
+## 👩‍💻 About Me
 
-🚀 About Me
+* 🎓 Currently pursuing **MCA at IMCC, Pune**
+* 💻 Completed **BBA in Computer Application**
+* 🌱 Interested in Web Development and Software Development
+* 🎨 Passionate about **UI/UX Designing**
+* ✨ Love creating clean, attractive, and user-friendly interfaces
+* 🚀 Always learning and exploring new technologies
 
-Hey there! I'm Harshita Satyajeet Potdar, an MCA student at IMCC, Pune, with a background in BBA in Computer Application.
+---
 
-I am passionate about Web Development and UI/UX Design, and I enjoy combining technical skills with creativity to build simple, functional, and user-friendly digital experiences.
+## 🛠️ Technologies & Skills
 
-🎓 Currently pursuing MCA at IMCC, Pune.
-💻 Completed BBA in Computer Application.
-🌐 Interested in Web Development.
-🎨 Passionate about UI/UX Designing.
-✨ Love creating clean, attractive, and user-friendly interfaces
-🐍 Currently learning and strengthening my Python skills.
-🗄️ Interested in databases and application development.
-💡 Enjoy solving problems and building practical projects.
-🧠 Believe in learning through hands-on practice.
-🚀 Always exploring new technologies and development concepts.
-🌱 Continuously learning, building, and improving my skills.
+### 💻 Programming & Web Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql" />
+</p>
 
-🛠️ Tech Stack & Tools
-💻 Development & Programming
+* HTML
+* CSS
+* JavaScript
+* Python
+* PHP
+* MySQL
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Development"/><br>
-
-<img src="https://skillicons.dev/icons?i=python,php,mysql" alt="Programming and Database"/><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
-
-</div>
+---
 
 ## 🎨 UI/UX Design
 
